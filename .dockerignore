@@ -1,0 +1,7 @@
+.git
+.vscode
+.idea
+.env
+dist
+node_modules
+*.sqlite
